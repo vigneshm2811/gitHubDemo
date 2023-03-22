@@ -1,14 +1,14 @@
 Here you will see some basic commands
 
-pwd
-cd
-ls
+pwd - print working derictory
+cd - change directory
+ls - list
 ls -a
 ls -l
-cp
-mv
-mkdir
-rm
+cp - copy
+mv - move
+mkdir - make directory
+rm - remove
 cat
 touch
 nano
